@@ -1,0 +1,21 @@
+{
+  "name": "my-spider-fe",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "axios": "^0.26.1",
+    "element-plus": "^2.1.10",
+    "vue": "^3.2.33",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.33",
+    "sass": "^1.50.1",
+    "vite": "^2.9.5"
+  }
+}

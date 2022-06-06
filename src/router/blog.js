@@ -1,0 +1,1 @@
+const BlogList = () => import('../views/blog/list');
